@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TwitterAndroidMosqueteros</string>
+    <string name="app_name">Twitter</string>
+    <string name="iniciarSesion">Iniciar Sesion</string>
+    <string name="tituloInicio">Bienvenido a Twitter!</string>
+    <string name="cerrarSesion">Cerrar Sesion</string>
+    <string name="verTweets">Ver tweets</string>
+    <string name="nuevoTweet">Nuevo tweet</string>
+    <string name="publicarTweet">Publicar</string>
 </resources>

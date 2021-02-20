@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="iniciarSesion">Log In</string>
+    <string name="tituloInicio">Welcome to Twitter!</string>
+    <string name="cerrarSesion">Log Out</string>
+    <string name="verTweets">View tweets</string>
+    <string name="nuevoTweet">New tweet</string>
+    <string name="publicarTweet">Publish</string>
+</resources>
